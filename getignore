@@ -1,0 +1,6 @@
+.DS_Store
+*.ipa
+*.xcuserstate
+project.xcworkspace/
+xcuserdata/
+Pods/
